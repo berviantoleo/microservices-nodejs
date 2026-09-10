@@ -13,7 +13,7 @@
     "express": "~4.22.2",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "morgan": "~1.11.0",
+    "morgan": "~1.12.0",
     "node-pg-migrate": "^6.2.2",
     "pg": "^8.8.0"
   }
